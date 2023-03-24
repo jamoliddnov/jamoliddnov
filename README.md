@@ -9,7 +9,6 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU" width="350" height="200" />
 
 <br/>
 <br/>
@@ -24,8 +23,8 @@
     
 ## 📊 Github Stats ⚡
 
-![](https://github-readme-stats.vercel.app/api?username=NormadjonGofforov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=NormadjonGofforov&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NormadjonGofforov&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jamoliddnov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=jamoliddnov&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamoliddnov&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🛠️ My favorite tools
@@ -80,8 +79,8 @@
 <p>
     <a href="https://github.com/NormadjonGofforov">
         <img alt="Github"
-             src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+             src=""></a>
     <a href="https://www.linkedin.com/in/normadjon-gofforov-6131ba236/">
         <img alt="Linkedin"
-             src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+             src=""></a>
 </p>
