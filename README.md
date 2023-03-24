@@ -77,10 +77,13 @@
 ## 🙋‍♂️ Connect with me
 
 <p>
-    <a href="https://github.com/NormadjonGofforov">
+    <a href="">
         <img alt="Github"
-             src=""></a>
-    <a href="https://www.linkedin.com/in/normadjon-gofforov-6131ba236/">
+             src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+    <a href="">
         <img alt="Linkedin"
-             src=""></a>
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=jamoliddnov&icon=0&color=0)](https://visitcount.itsvg.in)
