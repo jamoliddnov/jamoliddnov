@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there, I am Jamoliddinov 👋
 
 # 💫 About Me:
 ⚙️ My specialty : .net, asp.net, wpf, postgresql<br>💻 My programming languages : .cs, .cpp<br>⚔️ Technogies and tools : .net, git, docker, postgre sql, sql server, sqlite<br>🌱 Learning all about Open Source<br>📫 Connect with me: <a href="https://t.me/jaloliddin9513">telegram</a>, <a href="">linkedin</a>,<br>⚡️ Fun fact: I am very interested in engineering
